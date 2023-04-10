@@ -1,0 +1,6 @@
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:38:43:const touchgfx::TypedText::TypedTextData* TypedTextDatabase::getInstance(touchgfx::LanguageId)	0	static
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:43:10:uint16_t TypedTextDatabase::getInstanceSize()	0	static
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:48:24:const touchgfx::Font** TypedTextDatabase::getFonts()	0	static
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:53:23:const touchgfx::Font* TypedTextDatabase::setFont(touchgfx::FontId, const touchgfx::Font*)	0	static
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:60:6:void TypedTextDatabase::resetFont(touchgfx::FontId)	8	static
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:75:1:cpp)	8	static

@@ -1,0 +1,16 @@
+Modbus.c:448:6:vTimerCallbackT35	4
+Modbus.c:467:6:vTimerCallbackTimeout	3
+Modbus.c:123:6:RingAdd	2
+Modbus.c:148:9:RingGetNBytes	5
+Modbus.c:142:9:RingGetAllBytes	1
+Modbus.c:1294:9:getRxBuffer	4
+Modbus.c:166:9:RingCountBytes	1
+Modbus.c:171:6:RingClear	1
+Modbus.c:204:6:ModbusInit	9
+Modbus.c:322:6:ModbusStart	12
+Modbus.c:771:6:ModbusQuery	2
+Modbus.c:786:6:ModbusQueryInject	1
+Modbus.c:1458:10:calcCRC	4
+Modbus.c:1517:13:sendTxBuffer	5
+Modbus.c:631:6:StartTaskModbusSlave	39
+Modbus.c:1045:6:StartTaskModbusMaster	27

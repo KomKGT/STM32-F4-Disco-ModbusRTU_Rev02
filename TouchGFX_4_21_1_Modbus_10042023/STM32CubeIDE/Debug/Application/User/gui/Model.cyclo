@@ -1,0 +1,4 @@
+Model.cpp:51:6:virtual void Model::LedToggleRequested(bool)	1
+Model.cpp:35:6:virtual void Model::RegisterUpDown(int)	2
+Model.cpp:7:1:Model::Model()	1
+Model.cpp:13:6:void Model::tick()	3

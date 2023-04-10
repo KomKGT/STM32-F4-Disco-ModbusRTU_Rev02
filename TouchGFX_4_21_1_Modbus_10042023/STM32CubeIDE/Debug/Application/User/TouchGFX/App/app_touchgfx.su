@@ -1,0 +1,4 @@
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/App/app_touchgfx.c:58:6:MX_TouchGFX_PreOSInit	0	static
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/App/app_touchgfx.c:65:6:MX_TouchGFX_Init	8	static
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/App/app_touchgfx.c:75:6:MX_TouchGFX_Process	0	static
+D:/21032023_TouchGFX_WorkSpace/TouchGFX_4_21_1_First/TouchGFX_4_21_1_Modbus_10042023/TouchGFX/App/app_touchgfx.c:84:6:TouchGFX_Task	0	static
